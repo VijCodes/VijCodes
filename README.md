@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on data science projects at Verizon
+- 🌱 I’m currently learning about knowledge graphs
+- 
 <!--
 **VijCodes/VijCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
