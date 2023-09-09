@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 I’m currently,
 - 🔭 working on data science projects at Verizon
 - 🌱 learning about knowledge graphs, generative AI
