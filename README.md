@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on data science projects at Verizon
 - 🌱 I’m currently learning about knowledge graphs
 
-[LinkedIn]{https://www.linkedin.com/in/vijay-katta-85187986/}
+[LinkedIn](https://www.linkedin.com/in/vijay-katta-85187986/)
 <!--
 **VijCodes/VijCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
