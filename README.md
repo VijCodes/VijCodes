@@ -12,7 +12,6 @@ I’m currently,
 - 🌱 learning about knowledge graphs, generative AI
 - 👯 I’m looking to collaborate on Open sources AI projects 
 
-Reach me at:
 [LinkedIn](https://www.linkedin.com/in/vijay-katta-85187986/) |
 [Gmail](vijaykatta3094@gmail.com)
 
